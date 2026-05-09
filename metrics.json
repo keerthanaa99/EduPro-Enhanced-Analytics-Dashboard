@@ -1,0 +1,33 @@
+{
+    "linear_regression": {
+        "mae": 5.2423,
+        "rmse": 8.4157,
+        "r2_score": 0.6113,
+        "mape": 0.0324,
+        "median_absolute_error": 2.7324,
+        "cv_r2_mean": 0.5931,
+        "cv_r2_std": 0.1878
+    },
+    "random_forest": {
+        "mae": 5.81,
+        "rmse": 7.0283,
+        "r2_score": 0.7289,
+        "mape": 0.0354,
+        "median_absolute_error": 4.93,
+        "cv_r2_mean": 0.6776,
+        "cv_r2_std": 0.1061
+    },
+    "gradient_boosting": {
+        "mae": 4.985,
+        "rmse": 7.1278,
+        "r2_score": 0.7212,
+        "mape": 0.0304,
+        "median_absolute_error": 2.9383,
+        "cv_r2_mean": 0.7497,
+        "cv_r2_std": 0.0387
+    },
+    "best_model": "random_forest",
+    "test_size": 0.2,
+    "training_samples": 48,
+    "test_samples": 12
+}
