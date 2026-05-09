@@ -119,8 +119,7 @@ edupro-prediction/
 MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contact
-**[Your Name]**  
-[Your Email] | [LinkedIn] | [GitHub Profile]
-
+**[Keerthana Tangutoori]**  
+[keerthanatangutoor@gmail.com]
 ---
 *Built for the EduPro Predictive Analytics Project.*
